@@ -1,0 +1,14 @@
+h1 {
+  color:  blue;
+  font-size: medium;
+}
+
+.blueText {
+  color: blue;
+  font-size: medium;
+}
+
+body {
+  background-color: lightblue;
+  text-align:center;
+}
